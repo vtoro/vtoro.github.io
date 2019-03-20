@@ -1,0 +1,11 @@
+{
+  "name": "motti",
+  "version": "0.0.1",
+  "files": [
+    "motti_bg.wasm",
+    "motti.js",
+    "motti.d.ts"
+  ],
+  "browser": "motti.js",
+  "types": "motti.d.ts"
+}
